@@ -1,2 +1,2 @@
 # My Portfolio
- Desenvolvimento de um portfólio, utilizando HTML5 E CSS3.
+ Desenvolvimento de um portfólio pessoal, utilizando HTML5, CSS3 e JQuery.

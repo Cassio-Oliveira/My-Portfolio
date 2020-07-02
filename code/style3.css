@@ -1,0 +1,36 @@
+body{
+    
+    font-family: Helvetica;
+    background-color: #e1e1d0;
+}
+
+.botao{
+    margin-left: 20%;
+}
+
+#mensagem{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 30%;
+    margin-top: 300px;
+}
+
+.back{
+    border-radius: 5px;
+    width: 125px;
+    color: black;
+    
+}
+
+#id01{
+    border-radius: 150px;
+    background-color: #f2f2f2;
+    padding: 50px;
+    cursor: pointer;
+}
+
+.fa-arrow-left{
+    color:white;
+    font-size: 25px;
+    
+}
